@@ -1,0 +1,5 @@
+{
+  "name": "@nx-sonar-example/bar",
+  "version": "0.0.1",
+  "type": "commonjs"
+}
